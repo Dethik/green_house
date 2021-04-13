@@ -26,7 +26,7 @@ Grow, Water, and Feed your own plants.
 
 2. Once you have chosen your desired directory, clone the github repo using the version control tool `git` (<a href="https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github">download instructions</a>). Typing the following command into your terminal:
 ```bash
-$ git clone https://github.com/Dethik/Marios_Speciality_Food_Products
+$ git clone https://github.com/Dethik/green_house
 ```
 3. Open the project in VSCode by typing the following in your terminal:
 
